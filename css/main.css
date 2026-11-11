@@ -275,3 +275,10 @@ footer {
     margin-inline: 1.5rem;
   }
 }
+
+
+#reset-forge {
+  background: #e0eee7;
+  color: #1c7355;
+  border: 2px solid #006341;
+}
